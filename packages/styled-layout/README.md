@@ -1,6 +1,1 @@
-# Layout package made using create-react-library.
-
->
-## License
-
-MIT © [hglowiak](https://github.com/hglowiak)
+This project was bootstrapped with [Create React Library](https://github.com/DimiMikadze/create-react-library).
