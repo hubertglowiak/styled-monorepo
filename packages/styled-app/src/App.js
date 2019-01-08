@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ExampleComponent from 'styled-layout';
+import { ExampleComponent1, ExampleComponent2} from 'styled-layout';
 import logo from './logo.svg';
 import './App.css';
 
@@ -7,7 +7,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-       <ExampleComponent/>
+       <ExampleComponent1/>
+       <ExampleComponent2/>
       </div>
     );
   }
