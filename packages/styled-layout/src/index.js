@@ -1,5 +1,14 @@
-import { Header } from './components/Header';
+import { Header, Button, CardContainer, Label } from './components';
+
+import { colors } from './constants/colors';
 
 export {
-  Header
+  Header,
+  Button,
+  CardContainer,
+  Label,
+};
+
+export {
+  colors
 };

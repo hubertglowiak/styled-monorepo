@@ -1,4 +1,4 @@
-Monorepo example using styled-components, storybook, create-react-app and create-react-library.
+Monorepo example using styled-components, storybook, recompose, propTypes, create-react-app and create-react-library.
 >
 Start both layout and app to see how it works.
 

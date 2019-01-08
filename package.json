@@ -9,6 +9,7 @@
   ],
   "scripts": {
     "start-layout": "yarn --cwd packages/styled-layout start",
-    "start-app": "yarn --cwd packages/styled-app start"
+    "start-app": "yarn --cwd packages/styled-app start",
+    "storybook": "yarn --cwd packages/styled-layout storybook"
   }
 }
