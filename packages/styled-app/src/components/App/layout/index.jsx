@@ -12,10 +12,10 @@ const AppLayout = ({ counter, incrementCounter, resetCounter }) => (
         <Label color={cosmoBlue}>
           You've clicked {counter} times.
         </Label>
-        <Button color={cosmoBlue} onClick={incrementCounter}>
+        <Button color={cosmoBlue} onClick={incrementCounter} backgroundColor={kiteWhite}>
           +
         </Button>
-        <Button color={cosmoBlue} onClick={resetCounter}>
+        <Button color={cosmoBlue} onClick={resetCounter} backgroundColor={kiteWhite}>
           Reset
         </Button>
       </CardContainer>
